@@ -10,5 +10,8 @@
     "post": {
       "belongsTo": "Post"
     }
+  },
+  "Time": {
+    "time": 777
   }
 }
