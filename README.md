@@ -1,2 +1,2 @@
 # mockend
-My mock facke API repository
+My mock fake API repository
