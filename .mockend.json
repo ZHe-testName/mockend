@@ -17,5 +17,6 @@
       "belongsTo": "Post"
     },
     "likes": { "int": { "min": 500, "max": 10000 } }
-  }
+  },
+  "Number": {"random": { "int": { "min": 0, "max": 1000 } }}
 }
